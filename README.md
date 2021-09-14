@@ -1,1 +1,1 @@
-# Ajna
+# Chakra Paginator
